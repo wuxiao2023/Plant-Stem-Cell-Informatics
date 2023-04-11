@@ -1,1 +1,1 @@
-# Plant-Stem-Cell-Informatics
+The software (Plant-Stem-Cell-Informatics) was used to identify candidate genes involved in stem cells in plants of interest. This software supports multi-threaded application and cross-platform operation, including Mac, Linux, etc., and achieves the function through enter parameters on the command line.
