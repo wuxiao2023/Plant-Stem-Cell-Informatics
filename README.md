@@ -11,8 +11,6 @@
     6. ncbi-blast-win: The compilation package of blast downloaded on windows.
 - psci.jar: Main program, jar execution file
 
-![image-tools](/images/image01.png)
-
 # Preparing the input file
 
 The fasta file of protein sequences is required to run successfully.
