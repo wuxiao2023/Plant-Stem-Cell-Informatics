@@ -46,5 +46,7 @@ Protein_sequences.txt: The id and corresponding protein sequences of resulting g
 When the execution is complete, the directory where txt is located will be output: Result path: ./OutFolder
 
 # Note:
+
 According to GitHub website's policy, prohibit users from uploading files with memory greater than 100M. Therefore, we present the xx file (* * M) via compressed packages. Please unzip it before use, or download unzipped version from PSCIdb (http://47.100.201.80:8084/liuxn-plantdev-os-webapp/web/classification) to use directly.
+
 The folders in the Tools tool directory can be used to delete unnecessary toolkits according to different system environments.
