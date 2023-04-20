@@ -4,11 +4,12 @@
 - data: Data files on which jar package execution depends. The data file and jar package must be in the same directory.
 - tools: Blast and hmmsearch tools for jar package execution dependencies.
     1. hmmer: The compilation package of hmmer downloaded on Mac.
-    2. hmmer-linux: The compilation package of hmmer downloaded on linux.
-    3. hmmer-windows: The compilation package of hmmer downloaded on windows.
-    4. ncbi-blast-linux: The compilation package of blast downloaded on Mac.
-    5. ncbi-blast-macosx: The compilation package of blast downloaded on linux.
-    6. ncbi-blast-win: The compilation package of blast downloaded on windows.
+    2. hmmer-linux: The compilation package of hmmer downloaded on Linux.
+    3. hmmer-windows: The compilation package of hmmer downloaded on Windows.
+    4. ncbi-blast-linux: The compilation package of blast downloaded on Linux(x86).
+    5. ncbi-blast-linux-arm: The compilation package of blast downloaded on Linux(arm).
+    6. ncbi-blast-macosx: The compilation package of blast downloaded on Mac.
+    7. ncbi-blast-win: The compilation package of blast downloaded on Windows.
 - psci.jar: Main program, jar execution file
 
 # Preparing the input file
@@ -42,7 +43,8 @@ We default to output the first 1000000 sequences that conform to evalue when run
 Result.txt: The resulting genes were identified and the corresponding information (tab separated).
 Protein_sequences.txt: The id and corresponding protein sequences of resulting genes.
 
-When the execution is successful, the directory where txt is located will be output: Result path: ./OutFolder
+When the execution is complete, the directory where txt is located will be output: Result path: ./OutFolder
 
 # Note:
+According to GitHub website's policy, prohibit users from uploading files with memory greater than 100M. Therefore, we present the xx file (* * M) via compressed packages. Please unzip it before use, or download unzipped version from PSCIdb (http://47.100.201.80:8084/liuxn-plantdev-os-webapp/web/classification) to use directly.
 The folders in the Tools tool directory can be used to delete unnecessary toolkits according to different system environments.
