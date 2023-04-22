@@ -1,0 +1,371 @@
+# STOCKHOLM 1.0
+#=GS A2DIS0_TRIVA/186-278    AC A2DIS0.1
+#=GS A2DCR7_TRIVA/257-356    AC A2DCR7.1
+#=GS B7PJP8_IXOSC/629-723    AC B7PJP8.1
+#=GS B8MU50_TALSN/212-307    AC B8MU50.1
+#=GS Q0CJ92_ASPTN/32-127     AC Q0CJ92.1
+#=GS B3S116_TRIAD/5-103      AC B3S116.1
+#=GS Q54SQ5_DICDI/279-371    AC Q54SQ5.1
+#=GS Q7PT80_ANOGA/821-916    AC Q7PT80.3
+#=GS A2EN47_TRIVA/216-304    AC A2EN47.1
+#=GS A2EXC6_TRIVA/159-251    AC A2EXC6.1
+#=GS A2D9M7_TRIVA/275-369    AC A2D9M7.1
+#=GS A2EM74_TRIVA/258-350    AC A2EM74.1
+#=GS A2F5W3_TRIVA/129-219    AC A2F5W3.1
+#=GS A2DQD2_TRIVA/249-341    AC A2DQD2.1
+#=GS A2F648_TRIVA/226-320    AC A2F648.1
+#=GS A2EQW8_TRIVA/343-435    AC A2EQW8.1
+#=GS A2DEC2_TRIVA/285-377    AC A2DEC2.1
+#=GS A2G0N5_TRIVA/271-363    AC A2G0N5.1
+#=GS A2F5Q3_TRIVA/168-261    AC A2F5Q3.1
+#=GS A2DJD4_TRIVA/173-265    AC A2DJD4.1
+#=GS A2GBV9_TRIVA/279-369    AC A2GBV9.1
+#=GS Q0US17_PHANO/280-368    AC Q0US17.2
+#=GS A2E9W2_TRIVA/43-134     AC A2E9W2.1
+#=GS A5K8W0_PLAVS/71-164     AC A5K8W0.1
+#=GS A2EGI1_TRIVA/95-187     AC A2EGI1.1
+#=GS A4S205_OSTLU/531-626    AC A4S205.1
+#=GS A2G2B2_TRIVA/151-242    AC A2G2B2.1
+#=GS A2DCF5_TRIVA/249-339    AC A2DCF5.1
+#=GS A0D7A4_PARTE/88-180     AC A0D7A4.1
+#=GS A2GYZ0_TRIVA/65-163     AC A2GYZ0.1
+#=GS A2EWM3_TRIVA/429-524    AC A2EWM3.1
+#=GS A8NBB9_COPC7/484-576    AC A8NBB9.2
+#=GS A8NBC2_COPC7/530-621    AC A8NBC2.2
+#=GS A8N4G9_COPC7/811-900    AC A8N4G9.2
+#=GS A8P573_COPC7/40-134     AC A8P573.1
+#=GS A8NLP9_COPC7/1054-1149  AC A8NLP9.2
+#=GS A8NLP9_COPC7/1190-1286  AC A8NLP9.2
+#=GS A8NAJ2_COPC7/828-923    AC A8NAJ2.2
+#=GS A8NAI0_COPC7/663-757    AC A8NAI0.2
+#=GS C5GW90_AJEDR/1158-1253  AC C5GW90.1
+#=GS A2E6X4_TRIVA/363-456    AC A2E6X4.1
+#=GS B6HJM8_PENRW/413-509    AC B6HJM8.1
+#=GS A0D707_PARTE/105-197    AC A0D707.1
+#=GS A0DTL3_PARTE/185-277    AC A0DTL3.1
+#=GS A0D054_PARTE/220-329    AC A0D054.1
+#=GS A0EAF2_PARTE/174-265    AC A0EAF2.1
+#=GS Q6C3R1_YARLI/141-240    AC Q6C3R1.1
+#=GS Q8I422_PLAF7/1265-1359  AC Q8I422.1
+#=GS A2EEQ4_TRIVA/72-162     AC A2EEQ4.1
+#=GS B6HTQ1_PENRW/89-184     AC B6HTQ1.1
+#=GS A2DLG9_TRIVA/64-154     AC A2DLG9.1
+#=GS C0NAV8_AJECG/186-280    AC C0NAV8.1
+#=GS A2EH30_TRIVA/417-510    AC A2EH30.1
+#=GS A2DTH3_TRIVA/188-281    AC A2DTH3.1
+#=GS A2DHA2_TRIVA/206-299    AC A2DHA2.1
+#=GS C4M7N7_ENTHI/111-204    AC C4M7N7.1
+#=GS A4S680_OSTLU/515-605    AC A4S680.1
+#=GS B2WNF5_PYRTR/419-519    AC B2WNF5.1
+#=GS Q6MB76_PARUW/511-611    AC Q6MB76.1
+#=GS A8B4W8_GIAIC/51-136     AC A8B4W8.1
+#=GS A7EW32_SCLS1/392-480    AC A7EW32.1
+#=GS Q2UAP2_ASPOR/173-273    AC Q2UAP2.1
+#=GS A2G3Y3_TRIVA/181-271    AC A2G3Y3.1
+#=GS A2EXE0_TRIVA/182-274    AC A2EXE0.1
+#=GS Q54H94_DICDI/176-256    AC Q54H94.1
+#=GS B4QHN2_DROSI/74-171     AC B4QHN2.1
+#=GS A4SAL4_OSTLU/56-149     AC A4SAL4.1
+#=GS C1EC71_MICCC/398-494    AC C1EC71.1
+#=GS C3ZZM8_BRAFL/184-281    AC C3ZZM8.1
+#=GS Q0CR86_ASPTN/755-847    AC Q0CR86.1
+#=GS LRRK1_MOUSE/91-184      AC Q3UHC2.1
+#=GS A2DHY8_TRIVA/785-878    AC A2DHY8.1
+#=GS C7N7L5_SLAHD/325-413    AC C7N7L5.1
+#=GS A8B919_GIAIC/108-193    AC A8B919.1
+#=GS D2B3X6_STRRD/73-165     AC D2B3X6.1
+#=GS A8X6J6_CAEBR/64-156     AC A8X6J6.1
+#=GS B7PVD8_IXOSC/43-139     AC B7PVD8.1
+#=GS SNCAP_HUMAN/354-454     AC Q9Y6H5.2
+#=GS B3EU30_AMOA5/562-654    AC B3EU30.1
+#=GS ANR37_XENTR/34-123      AC Q28FJ2.1
+#=GS A7SYD5_NEMVE/288-382    AC A7SYD5.1
+#=GS B3S0V3_TRIAD/389-486    AC B3S0V3.1
+#=GS A2G3U2_TRIVA/222-313    AC A2G3U2.1
+#=GS Q54SY1_DICDI/2068-2158  AC Q54SY1.1
+#=GS A2G738_TRIVA/34-124     AC A2G738.1
+#=GS A2FFM1_TRIVA/460-549    AC A2FFM1.1
+#=GS C3YSQ3_BRAFL/435-529    AC C3YSQ3.1
+#=GS A2QYL3_ASPNC/147-240    AC A2QYL3.1
+#=GS A2FXM8_TRIVA/136-224    AC A2FXM8.1
+#=GS A2DNU5_TRIVA/466-554    AC A2DNU5.1
+#=GS A2G4U4_TRIVA/35-120     AC A2G4U4.1
+#=GS Q0U5R3_PHANO/136-226    AC Q0U5R3.1
+#=GS DGKZ_MOUSE/795-889      AC Q80UP3.2
+#=GS A8B932_GIAIC/1051-1137  AC A8B932.1
+#=GS B8BZ12_THAPS/294-390    AC B8BZ12.1
+#=GS Q94A85_ARATH/311-407    AC Q94A85.1
+#=GS C4Y829_CLAL4/532-624    AC C4Y829.1
+#=GS B0DA39_LACBS/8-88       AC B0DA39.1
+#=GS A7EZI2_SCLS1/636-731    AC A7EZI2.1
+#=GS B2VYX7_PYRTR/1300-1393  AC B2VYX7.1
+#=GS B0C188_ACAM1/3-103      AC B0C188.1
+#=GS B2W656_PYRTR/298-391    AC B2W656.1
+#=GS B6Q2N4_TALMQ/319-412    AC B6Q2N4.1
+#=GS Q2UAP2_ASPOR/32-125     AC Q2UAP2.1
+#=GS A2EEJ8_TRIVA/147-229    AC A2EEJ8.1
+#=GS A2DB49_TRIVA/308-400    AC A2DB49.1
+#=GS B6HH12_PENRW/637-729    AC B6HH12.1
+#=GS C1MJE5_MICPC/86-182     AC C1MJE5.1
+#=GS B6Q2N4_TALMQ/419-512    AC B6Q2N4.1
+#=GS C4JT62_UNCRE/393-486    AC C4JT62.1
+#=GS A2FPE9_TRIVA/298-392    AC A2FPE9.1
+#=GS A2FQF5_TRIVA/361-451    AC A2FQF5.1
+#=GS A0EDS2_PARTE/86-178     AC A0EDS2.1
+#=GS A2DXW9_TRIVA/9-101      AC A2DXW9.1
+#=GS Q0UWG6_PHANO/325-418    AC Q0UWG6.2
+#=GS A7TPS1_VANPO/79-172     AC A7TPS1.1
+#=GS B8BRM4_THAPS/97-195     AC B8BRM4.1
+#=GS A2FC39_TRIVA/49-140     AC A2FC39.1
+#=GS B6AIW4_CRYMR/120-215    AC B6AIW4.1
+#=GS BAD1_ARATH/5-101        AC Q8GYH5.1
+#=GS Q9LF32_ARATH/6-102      AC Q9LF32.1
+#=GS B0XA85_CULQU/686-769    AC B0XA85.1
+#=GS A2DWU3_TRIVA/217-316    AC A2DWU3.1
+#=GS Q9LU58_ARATH/51-145     AC Q9LU58.1
+#=GS A8BL00_GIAIC/448-534    AC A8BL00.1
+#=GS A8B8V5_GIAIC/131-222    AC A8B8V5.1
+#=GS A8B3N5_GIAIC/888-976    AC A8B3N5.1
+#=GS B0WQK8_CULQU/1885-1984  AC B0WQK8.1
+#=GS Q0CKQ4_ASPTN/407-506    AC Q0CKQ4.1
+#=GS A8B570_GIAIC/40-126     AC A8B570.1
+#=GS A8BEL1_GIAIC/41-126     AC A8BEL1.1
+#=GS A8BHY4_GIAIC/40-127     AC A8BHY4.1
+#=GS A8B6E3_GIAIC/44-130     AC A8B6E3.1
+#=GS A8BVA6_GIAIC/370-458    AC A8BVA6.1
+#=GS A8BV80_GIAIC/521-609    AC A8BV80.1
+#=GS A8BE85_GIAIC/955-1045   AC A8BE85.1
+#=GS A8B6E3_GIAIC/686-771    AC A8B6E3.1
+#=GS A8BB46_GIAIC/522-608    AC A8BB46.1
+#=GS A8BB83_GIAIC/475-562    AC A8BB83.1
+#=GS A8BNM6_GIAIC/522-610    AC A8BNM6.1
+#=GS A8BFR9_GIAIC/477-562    AC A8BFR9.1
+#=GS A8BZJ7_GIAIC/480-564    AC A8BZJ7.1
+#=GS A8BDZ5_GIAIC/386-474    AC A8BDZ5.1
+#=GS A8B9D3_GIAIC/289-375    AC A8B9D3.1
+#=GS A8BFQ5_GIAIC/599-687    AC A8BFQ5.1
+#=GS A8BQR2_GIAIC/74-161     AC A8BQR2.1
+#=GS A8BKT4_GIAIC/70-157     AC A8BKT4.1
+#=GS A8BFQ5_GIAIC/187-273    AC A8BFQ5.1
+#=GS A8BLA8_GIAIC/74-170     AC A8BLA8.1
+#=GS A8BW47_GIAIC/1424-1512  AC A8BW47.1
+#=GS A8BJR8_GIAIC/38-124     AC A8BJR8.1
+#=GS A8BB62_GIAIC/749-835    AC A8BB62.1
+#=GS A8BW27_GIAIC/343-431    AC A8BW27.1
+#=GS A8B820_GIAIC/506-593    AC A8B820.1
+#=GS A8B9D3_GIAIC/466-552    AC A8B9D3.1
+#=GS A8B932_GIAIC/664-750    AC A8B932.1
+#=GS A8BXR5_GIAIC/138-224    AC A8BXR5.1
+#=GS A8B6D9_GIAIC/87-178     AC A8B6D9.1
+#=GS A8BFE8_GIAIC/1096-1185  AC A8BFE8.1
+#=GS A2DZM9_TRIVA/217-308    AC A2DZM9.1
+#=GS A8BW40_GIAIC/1006-1093  AC A8BW40.1
+#=GS A8B378_GIAIC/480-569    AC A8B378.1
+#=GS A8BUI4_GIAIC/228-316    AC A8BUI4.1
+#=GS A8BYS6_GIAIC/42-130     AC A8BYS6.1
+#=GS A8B9I8_GIAIC/688-775    AC A8B9I8.1
+#=GS A8BA67_GIAIC/506-601    AC A8BA67.1
+#=GS A8BW28_GIAIC/842-930    AC A8BW28.1
+#=GS A2E2Y9_TRIVA/411-508    AC A2E2Y9.1
+#=GS B8PDU6_POSPM/43-145     AC B8PDU6.1
+#=GS B2A6G4_NATTJ/182-277    AC B2A6G4.1
+#=GS Q54YL8_DICDI/377-470    AC Q54YL8.1
+#=GS A2G5S0_TRIVA/329-424    AC A2G5S0.1
+#=GS D1B2D5_SULD5/570-656    AC D1B2D5.1
+#=GS A2DKS8_TRIVA/54-141     AC A2DKS8.1
+#=GS B3RJD3_TRIAD/665-763    AC B3RJD3.1
+#=GS C5DIN4_LACTC/500-595    AC C5DIN4.1
+#=GS A2F4T3_TRIVA/137-228    AC A2F4T3.1
+#=GS A2FGD6_TRIVA/1215-1308  AC A2FGD6.1
+#=GS A2E0A8_TRIVA/46-151     AC A2E0A8.1
+#=GS Q2GGE3_EHRCR/436-539    AC Q2GGE3.1
+#=GS A2DE55_TRIVA/291-382    AC A2DE55.1
+#=GS C3L4D2_AMOA5/188-282    AC C3L4D2.1
+#=GS A2FW15_TRIVA/496-589    AC A2FW15.1
+#=GS A0CR24_PARTE/425-518    AC A0CR24.1
+A2DIS0_TRIVA/186-278               LSVA...AK..S.G...SF..N...AV.KLL.I........................S......M......E..LIS......P.KD...VT...SYPPT.VAVC..C...S..VKI..P.......I...L...EYLL....K......M....N.....FP............LN...VKD.N....Y........GR...TP..F.WTAIMS..K...Q..Q.DMAL...Y.LLT...Q...K..G...I..DTTSIP
+A2DCR7_TRIVA/257-356               MHIC...AETGNIG...........LM.NLL.L...............KKGVVCDTVD......I.........................QG...KFPTF.YALS..A...........QPLEKATKA...I...DFLV....N......H..................GIDINSTD............NQ.......GR...TV..L.SEAI.SNPSLCKP....EFIS...F.LI....D...K..G...A..DPTMRA
+B7PJP8_IXOSC/629-723               LYRA.......A.G...AHNLP...VM.CLA.L..............ANG......AD......P......N..WT.......NPDE...DG...RYPLH.QAIQ..S...G.......S.......I.MAC...EFLL......................LN.......GAKSNSA.......D....SM.......GR...TS..L.HVS..TLLG...NTGQ..VCL.....LL....K...H..G...A..DQHTQD
+B8MU50_TALSN/212-307               LWRA...AS..V.G.....SVQ...VA.KLL.L.............ETGK......VD......P......D..............CRDSYN...ETPLQ.QAVIYGH...E.......E.......V...V...RLLL....K.T....G..................VVDLHGRD............RF.......GR...TL..L.HLAIIQRHE........AVAN...I.LI....E...T.KN...F..DLNSKD
+Q0CJ92_ASPTN/32-127                LFKA...AK..A.G.....NVP...KI.REL.L.............DANP......ED......V......DNR.......C..KAC...RN...VTPVIVAAVS..G...QQ......R.......A...V...EELC....N......R..........G.............AN............VELRD.I.DGY...TI..I.KLALDA..G...Q..R.DIAE...Y.LV....C...R..Y...P..DMTITD
+B3S116_TRIAD/5-103                 IHQA...IV..D.G...........RV.HQLRL............LARIG......AN......L......N.............AREERYG...RTPII.TASLLIN...EDLAV...A.......I...C...QILL....K.H....K...................CDCNTKD............SS.......GR...TA..LAHVASL...G...R..E.KVAL...Y.LL........DDIN...I..DLSVTD
+Q54SQ5_DICDI/279-371               IHLV...IR..N.G.....DST...IL.NLL.L.............D.YN......VD......V......NQK.......D....S...LE...RTPIILSSAN..G...KT......E.......C...S...RLLV....L......K..........G.............CK............VNEID.K.KQK...TA..L.HLAMDG..G...Y..D.DIAT...T.LT....Q...N..G...A..DISLRY
+Q7PT80_ANOGA/821-916               LHRA...VV..E.N...VP..D...MV.RLL.LLQG.............G......LR......L......D..CTN......D......DG...LTALQ.AAVY..A...R..NL...K.......I...T...RILL....E......A....G.....AS............VR...EKD.L....KH.......GN...NI..L.HIAVDN..D...A..L.DIVH...Y.ILE...E...V..K...E..ELGRER
+A2EN47_TRIVA/216-304               IRAA...AC..E.G...........NL.PMIKL............FEKCG......FD......M......R..................NE....IILH.SFCS..G...G.......S.......L.DGV...KYAL....Q.F....H...................PDVNEKD............SN.......NW...RP..L.HNA..STAN...R..L.DIVK...F.LL....S...Q.PG...I..DKNPLS
+A2EXC6_TRIVA/159-251               IFAA...ANKNNLV...........LI.QSL...............QKNGAKIDITNK......S......N.......................ETILH.KFCQ..N...G.......N.......L.DGV...KFAI....K......Y...................NSINSET............TL.......NW...AP..L.HFAASNNHA........NICE...F.LC........NQRS...I..KKNPEN
+A2D9M7_TRIVA/275-369               ILHA...AW..NND...FP......LV.KSL.I..............EFGADPNSQND......N......N.......................HTVLA.LFCG..Y...G.......N.......L.EAV...KYLC....S.I....K..................SVNINVKN............KE.......GD...TP..L.HYAT.FHSE...L....PVVQ...Y.LC....S...L.PN...I..QINIKD
+A2EM74_TRIVA/258-350               MIQA...AG..S.N...NF......LL.CKM.L.............HECG......AD......A......N...........SKDS...GN...WTVLH.KFAE..K...G.......N.......I.DAI...RYFS....V......F..........VD.......VNATNRL.....................NW...TP..L.HYAAF.......YDFP.QIVE...Y.L.........C..SFPQI..HVNETD
+A2F5W3_TRIVA/129-219               FLNA...SKQNNFK...........LC.KKLHL...............LGFDVNSRCS......F......G.......................NSVLI.WFAI..R...N.......N...........LKAVKYFS....N......F...................IDVNAVN............CT.......KG...SP..L.YYATRD..G...Y..L.DIVE...Y.LC...............SLPNINVNI
+A2DQD2_TRIVA/249-341               MIKA...SYSNNFE...........LC.KIL.V..............ECG......AD......F......N..............KKSRNG...NTVLY.FFAK..E...G..NL...E.......A...V...KYFA...........N..................IIDVNTPD............RF.......GL...TT..L.HEACYS..N...R..L.QIVQ...Y.LL........SLPT...I..DINIKD
+A2F648_TRIVA/226-320               LLTA...ASENNFE...........LA.KAI...............AENG......AD......IFAKSESG.......................ATVLH.YFAR..D...G.......N.......L.PAL...KYFC....NIKGIDLN.......................SRN............KT.......DN...TP..L.HFAA.WNNK...L....EAVE...Y.LA........SFPE...V..DINAKN
+A2EQW8_TRIVA/343-435               ILEA...ARKNNLN...........LV.QHL.F..............NHG......AD......IRSRSSTK.......................RTILH.FFCQ..E...G..NL...E.......A...V...KFAL....N......F...................IDINDVN............NG.......NE...TP..L.HDAI.YNNR...A....NICE...Y.LS........SQTN...I..NKNIKT
+A2DEC2_TRIVA/285-377               ILLA...ASKDNLG...........LV.KQLFY...............YG......AD......MKSKSKFN.......................RTVLH.WFCI..K...G.......N.......L.EGV...KFAH...........H..................FININAMD............TW.......KY...TP..L.HEAV.YHEN...Y....YVCA...Y.LC........SKPT...I..DKYAKN
+A2G0N5_TRIVA/271-363               ILWA...AR..N.G...DL..N...LV.KTL...............HEFGSDVNSVDD......S......R.......................RNILH.NFCM..R...G.......N.......L.EGV...KYAT....E.F....F....................DINEVN............ND.......NS...SA..L.HFAAYNDRA........DVCE...F.LC....K...L.PN...I..QKNIQD
+A2F5Q3_TRIVA/168-261               ILYA...AYKGNLK...........LV.TML...............QECGADPCSKND......E......D.......................ITILH.YFCH..R...G.......S...........KEGDEFAL....QFIDINAT........................TK............SS.......KR...TP..L.HIAAL...GNHGR.....LCT...F.LC........NQKF...I..RKNVKD
+A2DJD4_TRIVA/173-265               IHYA...VNRENLK...........LI.KLL...............QKFGARMDIKND......N......G.......................KTILH.KFCV..Y...G.......G.......NLEGV...KFAL....N......F.....................IDIND............RT.......GYLS.TP..L.IEA..AMAG...E....RVID...F.LL........SQPN...I..DVTAKD
+A2GBV9_TRIVA/279-369               LVNA...AFGYSFD...........CL.KFL.I..............EIG......YD......VTDERSKC.......................DEAVK..TCI......NVNDI...E.......V...L...KILV....DKGVKIKS......................................DV.......NK...TP..L.IDAV.CCMS...Y....ECVE...F.FV....E...L..G...L..DLNEVD
+Q0US17_PHANO/280-368               IMQS...SS..E.T.....NID...IV.TGL.I.............DRCP......GG......Q......KVH.....................TQVFTKACKY..G...NV......D.......A...V...KVFL....E......H..........M.............AV............NNATS...HLT...LP..L.NRAIQS..G...H..A.AVID...A.VL....E...A..G...A..DINKTD
+A2E9W2_TRIVA/43-134                LIVS...VI..N.Q.....YQD...FI.DYL.L.............D.NN......VS......V......NTL.......D....T...IP...FSALNYAIES..G...NI......V.......T...V...KKLI....D......H..........K.............AD............VNVSL...NTT...TP..L.IQSISK..N...Q..K.EVFD...L.LI....D...S..G...A..LIDIPA
+A5K8W0_PLAVS/71-164                LHFA...IY..G.N...NM..N...NV.KFI.I.......................EN......T......N..LIN......SINS...EE...QNGLI.ISVL..N...R..NT...Q.......I...S...KYLI....E......Q....N.....ID............YN....QK.D....KH.......KA...NA..L.LYSLIT..Q...N..Y.EIFN...L.LM..E.K...K..N...I..DINVNS
+A2EGI1_TRIVA/95-187                LHIV...AC..N.N...GK..E...TA.ELL.I................S......ND......I......N..INE......KCNN...E....ETTLH.IVAC..N...N..GK...E.......T...A...ELLI....S......N....D.....IN............IN....EK.C....NN.......EE...TA..LHIVAC.N..N...G..K.ETAE...L.LI....S...N..D...I..NINEKC
+A4S205_OSTLU/531-626               TDGC...AYVPAVK...........VL.KHL...............HKSG......FP......A......T.......................EDVIH.TACA..F...G..DV...D.......C...V...RYLK....ENYECCDF...............ENIWRDFKRSD.....................GE...NNDIM.IVAAQE..G...H..V.DVLK...Y.L.........YEND...C..DFSVQD
+A2G2B2_TRIVA/151-242               LGKV...AN..S.G.....DEE...SI.QFL...............NKYG......FT.DVKNSQ......N.......................ESLLV.TACQ..K...G.......D.......T.KLV...QFLI....E.N....G...................SDRHVTD............KD.......GN...NI..L.IVATKNSRT........ETIN...Y.LL........S.IG...F..DPSITS
+A2DCF5_TRIVA/249-339               LEML...IT..N.G...FY..E...VT.KEF.I.............E.RF......VD......K......R..TVN......EVYN...WK...DTPLT.LVCH..N...G..WL...D.......L...A...KLLI....D......K....G.....AD............IT....LK....................QP..L.ISAIFS..R...N..F.DLVD...Y.LI....S...L..G...C..KLDSEV
+A0D7A4_PARTE/88-180                VHYL...AT..Q.G...QL..D...GL.KLM.K.............Q.RG......AN......L......D..LMT......Q......TK...QNALA.IACN..F...G..YI...D.......I...A...KYLI....D......Q....G.....CS............ID....NR.N....LS.......NM...SP..L.TYAIKN..K...K..Y.ALIF...Y.LL....T...K..G...Q..FQNIQD
+A2GYZ0_TRIVA/65-163                LILI...AMNNHFK...........LF.YFV.F.............KDKI......TD......K......N...........DINIPDNKG...QTAFW.HTVE..K...G..YF...E.......I...M...KMLY....EFNNDCFR........................GD............ND.......GV...TP..L.HIACA.......R....NFVK...G.LL....FMKSK..G...MFKDPNIRD
+A2EWM3_TRIVA/429-524               LHIA...AL..F.D...DP..T...MT.TEV.L............KN.PN......VD......I......N..MTN......S......WG...MTALC.LAAQ..D...G..ND...A.......T...V...KALM...........Q....RED...LD............IN....CK.D....EN.......SM...TP..L.HYAAQE..G...E..Y.ETVK...V.LL..T.S...K..K...I..DVECKD
+A8NBB9_COPC7/484-576               SHIA...AF..Y.G...LY..N...IL.HSS.S.............I.NF......DD......T......T..SHS......Q...........QSHLH.LAAG..N...G..HH...A.......F...V...EQLL...........R....SPT...RD............VN....VQ.D....SE.......QK...TA..L.GRASGS..G...H..A.LIVK...A.LL..E.H...P..N...V..DPNLTD
+A8NBC2_COPC7/530-621               LHVA...AQ..I.G...MS..S...AL.PRI.P...............IP......GD......T......T..SNR......Q...........QTALH.LAAF..N...G..HT...S.......F...V...QTLL...........E....SET...IP............VD....AV.D....CQ.......GQ...TP..L.AKASLQ..G...H..D.GAVR...L.IL..G.H...P..N...V..EVNSKD
+A8N4G9_COPC7/811-900               LARA...VG..V.G...HT..D...MV.ERL.L...............KV......PG......I......D..VNA......G......D....TTALA.QAAE..S...G..HT...D.......I...V...ERLL....K...........VPG...ID............VN....AG.D....P.............TA..L.ARAVGV..G...H..T.DMVE...R.LLKVP.G..........I..DVNAGD
+A8P573_COPC7/40-134                LMLA...SR..RSG.....AAD...IV.DRL.L.............QENR......VD......V......H..............LRAKDG...LNALI.VASRYDE...D.......R.......A...V...ERLL....R.V....D..................GIEVNAQD............ES.......GR...TA..L.MWAA.YVGD...R....TSVE...L.LL....G...H......K..EVQADM
+A8NLP9_COPC7/1054-1149             LMIA...SD..R.G...YT..D...IV.GEL.L............QS.KW......VN......V......A..AVD......P......NG...DTAAI.LAAR..A...G..HD...D.......V...V...DQLI....Q......A....DQA...V.............LN....MA.N....AE.......GQ...TP..L.IVASPH..G...H..A.STVL...R.LLQ.S.G......K...V..DVNAVD
+A8NLP9_COPC7/1190-1286             LMQA...SK..F.G...HY..T...SA.SIL.L............RC.QN......ID......I......N..ARD......S......LG...NTALT.FAAF..N...G..HS...T.......L...V...QILI....D......H....G.G...VD............AN....SA.N....YY.......GR...TA..L.IYAAWA..R...H..E.EVVE...Q.LL.QS.G...M..V...S..DVGHKD
+A8NAJ2_COPC7/828-923               LMLA...LRYGHEG...........PV.QRL.L...............AH......KD.............T...........QVNLTGNFG...QTALM.LASE..Y...G...............HEGPV...QRLL....A......H.................KDTQVNLAN............NY.......GS...TA..LMYASC.Y..G...H..E.GTVQ...R.LL........AHKD...T..QVNLAN
+A8NAI0_COPC7/663-757               LNHA...ANGGHSG...........TV.GRL.L.............AHKD......TD......V......N...........IADN...KG...STALI.HAAK..E...GHNNS...............V...QRLL....E......H..........KN.......TDVNIAD............NE.......GR...TA..L.IHAAENGQE........DAVR...R.LL....A...H..K...E..TKVNVT
+C5GW90_AJEDR/1158-1253             LQWA...AI..N.G.....HEK...VV.ELL.L...........EKEVVN......VN.SMDRKL......R........................TPLS.NAAH..R...G..HE...K.......V...V...QLLL....A.R....N..................DTDVNLKD............EC.......GR...TA..L.SWA..SING...R..E.KAVE...L.FL....E...R.ER...V..NLNAED
+A2E6X4_TRIVA/363-456               LHYA...TISDNID...........FL.DQLKF.......................YE......I......N............TETQDNEG...KTALH.YAVMNDN...........E.......Y...F..TKRLL....N.F....N..................DKSTEISD............ND.......GK...LP..L.HYAVI...G........GNVK...I.AL....AVIER.TS......RIRKRD
+B6HJM8_PENRW/413-509               LSIA...AG..I.TGSRSA..W...FV.KEL.L............KN.PN......VD......I......N..SQD......V......LG...KSVLY.HSVE..G...G..NT...K.......V...A...KLLL.................SR...SH............VD....PN.G....NT.......AY...LP..L.FSAVSN..R...Q..E.AIVR...S.LL..N.K...K..A...T..DPNRKD
+A0D707_PARTE/105-197               LHWI...CY..F.G...KL..E...IL.KVY.LPY..............C......LD......I......N..QET.........L...DG...WTSLM.ISIR..Q...Q..HL...Q.......I...T...RYLL....N......Y...QS.....IN............PN....LV.T....QQ.......S....SA..L.HLACRM..E...N..T.QAIQ...M.LQ....E...K..D...V..DFLIQD
+A0DTL3_PARTE/185-277               IHFA...SF..L.E...YK..L...IV.EFL.ISK..............D......ID......I......N..KVT.........D...EG...WTPLQ.IAVH..R...H..NI...E.......I...V...KVIL....N......H...PQ.....ID............VN....LI.T....DK.......G....IA..L.NLACKS..G...Q..I.KIID...L.LL....Q...K..N...A..DLKLQD
+A0D054_PARTE/220-329               SEQG...SQNDIQK...........MI.KLLQI..............YPKKHLYCPTD......P......K..........HILNSFNKFG...QNSLY.ISCK..N...G.......N...........IAVIKFLL....D......Q..........QANPFIKSKVYENFYE..........................SP..L.EVSIRW..N...H..F.DCVQ...L.LL....E...KSNY...S..NKELKA
+A0EAF2_PARTE/174-265               FHYA...NQ..Q.G...HE..E...LV.VYL.IEE..............G......AD......I......N..FCT.........K...DR...QSPLQ.LALK..N...S..KI...E.......C...A...KLLL....S......K...QV.....CD............VN....Y..C....SQ.......GK...SA..L.QLAVQK..G...E..L.DIVE...L.IL........K..H...P..NFDAQA
+Q6C3R1_YARLI/141-240               LHYV...CQ..F.G...........LL.EFLKV.........ILSCLKEWEFITASTP......L......D...........GLSFQDCEG...LTPVH.LAVL..G...G.......H.......V.GCV...RLIC....D.T....T........................PK............LS.......DG....A..LVLAAARQNYA........EVVK...V.LI........D.HG...L..TCGFKD
+Q8I422_PLAF7/1265-1359             LHYA...CA..R.G...KR..E...LV.KQL.L.............I.SG......IP......I......N..LLN......N......EG...ATGLH.LASL..N...G..HK...E.......I...V...DILL....E......H....KND...NI............IN....RI.T....CH.......GE...TA..L.MLGTYG..L...H..Y.DIVK...T.LI....E...K..K...A..KIIVNQ
+A2EEQ4_TRIVA/72-162                LELA...VK..S.G.....NIE...VV.DLF.L...............NK......GA.VLSKRI......S.......................KECLY.LAIKNYQ...K.......D.......M...V...QFLF....S......H..................GVEISNGN............RD.......DE...SS..L.QSAA.FRST...P....EIVE...L.IL........S.HK...P..DIYAFG
+B6HTQ1_PENRW/89-184                IVIA...AS..N.G...HT..H...LV.ELF.L...............PH......CI......H......H..DTE......KGGD...LY...KKALT.KAIE..K...E..HV...E.......V...V...KLLL....E......H....K.....TH............TN....SQ.D....RY.......AA...IP..L.CRAVRM..R...H..V.PIVR...L.LL..E.H...N..Y...C..NLDAYD
+A2DLG9_TRIVA/64-154                LFVA...VNANLID...........FV.TVL.L..............ENG......AD......PSIHYRGQ........................TILS.YASK..T...E..QL...P.......I...F...KLLV....K......Y..................GAPMSSR.............QI.......TT...SP..L.ISAL.KAQN...M....EAVA...I.LL....F...N..G...A..DPNCTQ
+C0NAV8_AJECG/186-280               FAYA...IISNKIT...........LM.KLL.L..............ASG......AH......P......D...........DEDYDDADR...PTALV.LASESNN...E.......D.......M...I...KLLL....GVRSSVNC.......................SLK............RL............QP..I.YAAV.RSCS...L....NIIR...G.LI....N...R..G...A..RINHAD
+A2EH30_TRIVA/417-510               LISA...INRQFYG...........CV.KIL.L..............EAGAGPNTVTD.............S.......................MTALS.HACNRKS...T.......D.......I...V...RVLC....E......Y................GAYVNFSASG............KY.......ND...RP..IILSCIK...G...N..I.EHVK...T.LI....E...W..G...A..EYDVTA
+A2DTH3_TRIVA/188-281               LMLA...IANKMDE...........AI.NIL.I.......................ED......N......N...........DIDTVSTNG...VCALS.LACQ..D...R.......N.......L.KLI..EKLIL....R.G....Y....................ASLSVK............AA.......GG...SS..LIHWA.....GATCS..P.EILK...F.VI........N.CG...A..NVMDRT
+A2DHA2_TRIVA/206-299               LMLA...VV..N.G...MT..E...AI.EPL.IQR..............G......IS......P......Y..EVN......S......KG...DTALT.CACT..M...E..NV...E.......I...V...KLLC....K......N....M.....NA............IE...VKT.N....GN.......KP...SV..A.YYAVRS..G...N..L.EILK...T.VL....D...K..G...C..TLDKFD
+C4M7N7_ENTHI/111-204               LMLA...IQ..L.G...FN..D...IA.FEI.M................K......LQ......N......F..NYS......TPDL...NG...ESLLH.YCAR..Y...G..MA...L.......I...C...KEIL....R......H....N.....IN............IN....SI.D....FN.......NN...NA..L.HICCSY..H...S..L.NVAR...V.LL....I...N..G...I..RTTQRN
+A4S680_OSTLU/515-605               LSRA...VS..V.G.....SLP...LV.KIL.V.............T.AG......GL......Y......HSP.......D.........D...QTVLHSAISQ..D...QV......Q.......R...I...KLLI....V......A.........................G............VNLSSQDYQGS...TA..L.HVAARL..G...M..P.TILR...I.LF....D...A..G...I..EDNLLD
+B2WNF5_PYRTR/419-519               LHLS...VM..G.G...HP......LTTKAL.L..........TAESWRG......TN.EEKLVC......R.............KTIARSG....AALA.LATR..S...........N.......F.VDI..VRLLV....E.A....G...................VDVNYQD............EG.......GE...AA..L.HMAARYGYD........ECAK...V.LL....E......G...S..SINKAD
+Q6MB76_PARUW/511-611               LYSA...VS..D.E...NV..E...MT.KLL.LEF..............N......RD......S......H..ELNIRHE..DMDG...NE...MTILH.IATK..N...L..NL...E.......M...M...KLLL....S......Q...EK.....ID............LH....VQ.D....NK.......GD...TP..L.NIAIES..G...Y..Y.EGAK...L.LI....Y...S..G...A..QIKLTE
+A8B4W8_GIAIC/51-136                LMIA...AH..K.G...YF......TI.AKL.L.......................HN.............H...........EARLQNNDG...LSALM.FATLAEQ...L.......E.......I...A...DLLI....SDEKDCVT........................PE.....................GR...DA..L.MLG..SEAG...C..S.DMVS...F.LV........N.........HVPVRT
+A7EW32_SCLS1/392-480               MGMA...AK..A.G.....SLS...IV.QRL.I.............N.HG......AR......L......NHP.......M........KG...DIALRYAVTY..E...YT......E.......I...V...RFLL.....................................G............SGVIS.LYARR...CS..L.KYATDK..G...L..E.SMVE...L.LK....C...D..L...A..DFEAKR
+Q2UAP2_ASPOR/173-273               LGIA...SS..I.G...PL..D...LV.KYL.V............EK.GN......AD......V......N..LQL......EGWR...CSH..GTALA.AVIR..R......RL...E.......I...I...KYLV...TE......V....HAD...VN............QQ....LR.F....GH.......TN...TA..L.TTAVET..G...S..R.DIVQ...L.LV..E.E...G..N...A..NINLQS
+A2G3Y3_TRIVA/181-271               LLFA...AL..K.G.....ENK...LA.RYL.V.............KYGANPRTKSRN......L......D........................TILKLYTMR..N...........D.......L.EGV...KFAI....E......F...................IDINSQD............DL.......GN...AA..L.HYSV.YNNN...Y....EITK...F.LI....S...Q......P..DVNIYV
+A2EXE0_TRIVA/182-274               LFYA...VF..NKN...HK......LA.NLL.I.............KYGASVTTRSKD......N......D........................SLLHLYALY..D...........D.......V.DGI...RICL....K......Y...................IDVNTQD............GM.......GN...TP..L.HYCI.SPGS...V....KALN...F.LL....S...Q.PG...I..NPNIKN
+Q54H94_DICDI/176-256               IDQA...AA..E.G...NL..P...IV.KYLSK............YTQSG......CS.............K........................SAIN.LACK..N...G..HL...E.......M...V...KYLF....E...............................NR............KE.......GA...SAKAL.DYCCEF..G...R..F.EIFK...Y.LF....E...N.........DVLSLN
+B4QHN2_DROSI/74-171                LHQA...VIDNNLE...........TV.QAQ.L............EPPVPSALVTCKD.............G..................NG...LNIIH.KAAG..L...G..HT...K.......L...L...EYLV....GIWPEGAH.......................ETD............IT.......GK...TP..L.HWAASA..K...N....NMRC...YTLL........TQAG...C..DEEAVD
+A4SAL4_OSTLU/56-149                LFGA...IE..D.G...DH..D...AF.ERA.L................R......ED......A......A..CVK......DVNS...NG...WTAAH.QAAY..S...G..EH...K.......M...L...RRVL....E......L....G.....VD............VN....AR.C....AD.......GC...LA..A.HYASAQ..G...E..K.KCLQ...V.LG....E...L..G...S..EFETKD
+C1EC71_MICCC/398-494               FHWA...VW..Q.G.....RSA...TC.DWL.V.............NVAS......CD......W......RAL.......N....Q...FG...CNAAQWAAQS..G...DV......E.......M...C...EWLA....R......L..........G.............LD............MTLLN.N.NGH...SA..V.HKAAVK..G...R..R.ETCE...W.LL....DVGGL..G...A..DHVAPD
+C3ZZM8_BRAFL/184-281               LHVA...VQ..G.G...HL..E...TV.QWL.V...........GRM.GP......AS......L......G..LQT......K......DG...ATVMH.YAAA..M...G..QT...D.......I...M...RWLL....S......Q....RKS...VE............VA....KMTD....KE.......GG...TA..A.HDAAAK..G...H..M.GCLK...L.LV....E...L..G...L..DIHQKD
+Q0CR86_ASPTN/755-847               LHLT...SD..F.G...LE..Q...LV.LAI.L................S......QE......P......S..KLN......ATTT...IG...TTAII.KAAS..S...G..HV...S.......T...V...RALL....Q......K....GAD...PF............LE.......N....WY.......G....NA..L.HCAAEA..G...H..C.STIA...A.LV....S...H..G...M..DPNGRA
+LRRK1_MOUSE/91-184                 LSIA...AA..H.G...DL..E...TV.QFL.L.......................TE......K......R..VEL......PTEP...TD...DNPAV.VAAH..F...G..HA...E.......V...V...RELL.................ES...LP............GP....CT.P....QR.......LL...NW..MLALACQR..G...H..L.EVVK...L.LV..L.T...H..G...A..DPENYA
+A2DHY8_TRIVA/785-878               LQLA...AQ..K.G...HT..E...VV.KFI.L.......................QK......M......K..VSI......DSVG...KG...DTTAL.MAAI..S...S..HK...E.......K...T..VKELL....D......I....GAS...ID............LK.......D....DL.......GK...TA..L.VRAVES..K...E..I.EIIR...M.LL....K...K..G...A..DPNDGI
+C7N7L5_SLAHD/325-413               IIEA...AL..K.G...NA..R...LV.RAL.I.............E.VG......AD......V......N..IKK......D......NG...EFALL.DAAG..Y...E..HL...E.......A...A...EALL....A......N....GAN...PN............AI....AR...............GL...TP..L.TQA.....E...S..V.EMIN...L.LL....K...Y..G...A..DPNIPD
+A8B919_GIAIC/108-193               LMMA...AE..R.G...DV..R...SV.AAL.V............EY.EH......GQ......K......D..S...............RG...RTALM.YAAS..F...G..KA...E.......C...I...PALL....V......E........................TA....EI.D....NK.......GM...TA..L.MFAAYG..N...S..V.PIIR...Q.LIRYE.A...............RRKN
+D2B3X6_STRRD/73-165                LSGA...AA..W.N...HA..E...VV.EAL.L...............AA......GA................EVS......GRES...GG...WSALL.WAAA..N...G..QA...D.......A...L...KALL....A......A....GAD.................AE....EA.N....DS.......GE...TA..L.TLATRR..G...A..L.GAVG...A.LL..E.A......G...A..DPTRSD
+A8X6J6_CAEBR/64-156                LMLA...AH..N.G...KL..N...SL.RTI.L............ML.SP......KS......L......N..LTN......E......RG...KTALH.MAAE..S...G..EI...S.......T...V...MELV....E......I....GSD...PM............KS.......D....TE.......GH...CA..L.ELAQMA..G...H..N.EVAA...K.LI........D..A...I..QKESED
+B7PVD8_IXOSC/43-139                WHVC...AA..R.N...HL..R...CF.QWL.CQ...............G......HP......Q......H..VLA......DENH...SS...LTPVG.TAVK..H...G..NL...E.......I...V...QWLV....S......K....S.....WA............LE..QINP.P....EG.......NR...TL..L.HLAAKY..G...Q..E.RVVR...W.LA....E...Y..M...Q..NNNLNI
+SNCAP_HUMAN/354-454                LHIA...AS..Q.G...HA..E...CL.QHL.T...............SL......MG......E......D..CLN......ERNT...EK...LTPAG.LAIK..N...G..QL...E.......C...V...RWMV...SE......T....E.....AI............AE....LS.C....SK.......DF...PS..LIHYAGCY..G...Q..E.KILL...W.LLQFM.Q...E..QG..I..SLDEVD
+B3EU30_AMOA5/562-654               LHLA...TAQKNEK...........II.MQL.I..............QLG......AD......L......E..............LKDGNG...TTPIF.WAVY..Q...N.......E...........LKLLKLFV....DNGANLQV........................SD............NQ.......GN...T...LLHVAA....QYADL....NIIN...Y.LI....E...I..G...F..YHLQEN
+ANR37_XENTR/34-123                 AHLA...AC..G.G...QA..F...FL.LWQ.L.............Q.TG......VD......V......N..QQD......C......FG...EAPIH.KAAR..S...G..SM...E.......C...L...SLLI....A......S....D.....AR............ID....MC.N....KD.......GH...TA..E.DVALSC..G...F..L.DCAR...Y.LA...............T..IKLTQD
+A7SYD5_NEMVE/288-382               LLRA...AK..N.N...SS..A...QA.SFL.I.............N.HG......LS......T......E..VVD......T......RG...WSPLF.IALE..N...D..NF...E.......C...A...DVLV....N......L....RAN...VN............FK....NE.H....FK.......HK...TI..L.HELSRL..G...K..Y.KAVE...F.LL....S...R..G...A..NPSAPD
+B3S0V3_TRIAD/389-486               FKEV...GP..E.G...EGRIE...EV.QNL.I.............E.EG......AD......P......N..CKN......N......DQ...IPVLA.VAIQ..S...R..HY...D.......C...I...PVLI....Q......E....G.....AD............VN....AKVS....CK.......GN...TI..L.HEAVQL..G...PNGI.KAVE...I.LL....E...C..G...V..DIKPKN
+A2G3U2_TRIVA/222-313               FFIM...SP..Q.F...HIP.S...LC.EYF.I.............S.QG......VD......I......Y..AHD......RYL.........QNALY.AALS..N......KA...V.......A.......ETII....A......H....G.....FD............IN....HT.N....IE.......GR...TM..L.HIAAYW..K...S..I.WHAE...K.LI....S...L..G...I..DINAKD
+Q54SY1_DICDI/2068-2158             LSFA...IDYKCLE...........II.QWL.V...............NNVILSSKL.......L......N........................IALI.RSIM..V...G..NL...E.......L...V...TFFI....ENGSDVNC.......................SIS............SL.......EM...SP..I.QYAAKF..N...Q..I.EIVK...Y.LL........TLEG......NKKVNI
+A2G738_TRIVA/34-124                LHYA...VR..S.G...NI..D...VF.NYI.V...............QR......YN......P......D............KNTKNKNG...FTPLN.NAQM..Y...GFENI...........I.NKF..PSSMI....Q.E....K.......................DVN.....................GN...TI..L.HYAA.MGGN...R....DYFK...K.VL....Q...K......Y..YSKFND
+A2FFM1_TRIVA/460-549               VFLA...VS..S.G...NL..E...II.KYL.ITN..............D......AV......P......T..QQS......SNND...L......PIL.RSVM..L...G..HL...D.......I...F...TILL....Q......Y..PRN...................QN....VD.E....N..............F..L.TIAISN..Q...R..F.NIIK...Y.ILD...I...K..L...T..KIQEKH
+C3YSQ3_BRAFL/435-529               LCLA...AK..R.G...DV..T...GV.MGV.M................E......NG......A......S..ANA.......PNR...AG...VLPMF.AAVD..S...DSANI...R.......V...I...RYLL....S......R....GAD.................VQ....IR.N....KN.......GE...TL..L.RVAGLR..G...R..L.DIVK...I.LT....D...A..G...A..DIMDDS
+A2QYL3_ASPNC/147-240               IADA...LL..S.G...HI..S...TV.RLL.L................E......HG......S......D..IQD......CHIE...AG....RLVL.YAVN..T...G..QL...T.......M...L...QLLK....E......F....G.....AD............LN....I..A....YN.......HV...EP..L.HKAACL..R...QIST.DIVR...F.LL....D...H..G...A..EITSSD
+A2FXM8_TRIVA/136-224               LCTA...VY..Y.N...IS..S...LV.VDF.V................E......LG......A......D..VNG......KTIF........SSPFL.AASK..I...G..NL...E.......M...L...KLFC....E......H....G.....CD............L........N....KF.......SI...NP..F.HFAAKN..D...D..L.EMAD...F.LY....K...N..H...C..DIYATE
+A2DNU5_TRIVA/466-554               LNLA...AL..Y.N...SP..N...IM.REL.F.............S.LS......YK......P......G..................SY...VEMMM.SCLK..S...S..SL...E.......C...L...KILV....E......N....G.....AN............VN....EV.N....AQ.......GY...TV..L.MHSVLL..N...N..V.EFVS...Y.LL....S...I..D...A..SVWIKN
+A2G4U4_TRIVA/35-120                ARIC...VE..N.G...RL..D...LL.KPL.I................D......NG......C......K.......................PDFLI.RAAV..R...S..HQ...F.......E...I..MKYLI....E......K....G.....FN............VN....ET.T....AM.......TA...SA..L.YAAVTE..N...L..P.EYGK...E.LL....D...N..G...A..DPTVTF
+Q0U5R3_PHANO/136-226               LMDA...AE..L.S...DP..T...AL.RTL.I........................A......H......G..ATL......H...........PEILF.YAIG..LRHNS..NG...T.......A...T..MEALI....E......H....G.....AD............IN....YV.S....PR.......RS...TP..L.YAAVRV..C...D..E.EKIR...F.LL....A...R..G...A..DPHLKV
+DGKZ_MOUSE/795-889                 LIEA...AK..R.N...DC..C...KL.QEL.H................R......AG......G......D..LMH.......RDQ...KS...RTLLH.HAVS..T...GSKEV...............V...RYLL....D......H....APP...EI............LD....AV.E....EN.......GE...TC..L.HQAAAL..G...Q..R.TICH...Y.IV....E...A..G...A..SLMKTD
+A8B932_GIAIC/1051-1137             LMVA...AE..N.D...DI..G...AV.RCL.R.......................SQ......R......R..LQN......T......DG...TFALY.LAVE..K...N..HV...H.......C...V...RLLI......................KE............QD....LK.T....NE.......GK...TA..Y.QRALEL..K...H..Y.NCAY...A.IA....I...A..G...N..HVILDD
+B8BZ12_THAPS/294-390               KVNA...VQNKDLQ...........AL.RSL...............HSEGQIMQTSNR......F......G.......................ESLLH.TACR..R...GFT.....E.......I...V...SFFI...........H................EANVTPRVRD............DM.......GR...TP..M.HDAC.WSSTAPNH....DVMK...M.LI........A......SAPEMLLSK
+Q94A85_ARATH/311-407               LSFAASIGF..YKG...........VC.NLL................DRSTKNVYVCD.............E..................DG...SFPIH.TAAE..N...G..HI...R.......I...V...KEIL....KRCPHSKH.......................MLN............KL.......GQ...NV..L.HIAA.KIGE...H....NLVK...S.LM....R...SDDT...K..HLGVGQ
+C4Y829_CLAL4/532-624               LHVI...AR..A.G...NF..K...LI.KLL.Y................H......YG......A......S..VNQ......LDGL...NK...WPPIF.YAAS..E...G..HV...K.......T...T...KELI....K......F....G.....AK............LD....IV.D....ED.......GY...NV..L.YYCVVE..G...H..I.KVLN...Q.LL........S..Y...R..NFNSSS
+B0DA39_LACBS/8-88                  LWVA...AG..D.G...DL..E...RV.KEL.I...........................................N......Q......CK...PTGRH.AAAS..Y...G..QI...E.......V...L...AYLV....A......N....GGD...V..............N....IT.D....ED.......GD...TP..L.YTVE........N..I.ETAR...W.LV....D...H..G...A..VVDRRN
+A7EZI2_SCLS1/636-731               LHKA...SL..G.G...YT..E...IV.KQL.VSAKPS...........L......IE......V......P..LEE......N......FN...KTALI.IAIS..R...D..HE...E.......M...I...RAMI....K......I....G.....AR............MS...MRG.F....R........EN...TA..L.FMASTS..G...N..T.EDVK...T.LL....A...P..G...A..KVHTTT
+B2VYX7_PYRTR/1300-1393             LCAA...AK..K.G...DG..E...AV.LKF.T...........QQG.VP......PD......E......R..DTR......R...........VTPLW.HAAA..R...G..HT...G.......T...V...RALL...........E....TNA...VN............VN....AA.S....VS.......KL...TP..L.FWPAAH..G...Y..V.EVVK...L.LL....D...Y..G...A..QQSYED
+B0C188_ACAM1/3-103                 IHQD...AY..N.G...DL..E...SV.RQA.L.............T.EV......PD......L......E..IQD......QDGG...EATYGLTPIQ.CALS..S...PIASL...E.......I...V...LLLL....N......K....G.....AQ............LL....FS.P....NN.......RK...TA..L.FLAIQS..G...R..I.EKIQ...W.VL....E...Q..G...A..DITQAD
+B2W656_PYRTR/298-391               LARE...SE..K.G...DL..E...AV.KEA.Y................E......EA......P......D..ELD......QADY...AG...IAPLQ.KAAL..H...G..WA...P.......V...V...RYLI....N......K....G.....CR............TD....CE.S....HD.......RD...TP..L.IDAVEN..S...H..L.DVVR...L.LL....N...Q..G...Q..VNPHHS
+B6Q2N4_TALMQ/319-412               LHEA...AI..S.G..............QTF.V.......................FEAGLKNNV..................DISTPDVYG...RIPLH.YACI..H...G..RA...D.......M...V...RKLL....AAAPDTVN.......................SLD............HD.......NF...TP..LIHSIVR...N...R..L.ECAE...L.VL........NNEA......RINPTS
+Q2UAP2_ASPOR/32-125                IAIA...VRVRCKP...........LC.KKL.V.......................SR......L......P...........KDQRTRGCG....CALI.IAAK..Q...G..DE...N.......L...V...RFLV....QEGNANVN........................LV............AR.......GFT..TA..LCEACVI...G...A..L.NIVK...Y.LV........EEAQ...A..SVDVRT
+A2EEJ8_TRIVA/147-229               VNLA...VR..R.H.....HNE...IA.EIL.I.............KDYL......SE......F......EDN.......................LLYDCIRS..A...NF......Q.......I...A...IYLV....E......H..........Q.............IN............NT.......DY...RA..L.EAACRT..G...S..I.NLVK...Y.LI....K...N..G...C..KVNQQN
+A2DB49_TRIVA/308-400               LQIA...SL..F.Y........YDAVF.EWL.L........NTRKIN.VL......SA......A......S..TLY...................SVVH.TCAI..AN......NF..H.......A...M...SLVLSL.GA......D..........IN............AR.......G.N..DT.......L...T.A..L.MLAACF..G...S..Y.ETVK...I.LV...TN...S.........KINLSI
+B6HH12_PENRW/637-729               LLAA...SL..S.R...RR..D...TV.NFL.I................R......AG......A......D..VNT......QGGR...YG....NALQ.AAAS..T...G..SA...E.......L...V...WILI....T......A....G.....AE............IN....TQGG....EY.......G....NA..L.QAASWA..G...S..A.EVVR...I.LI....K...A..G...A..KVNAQG
+C1MJE5_MICPC/86-182                LHYA...AARGEVA...........AI.DAL.L.............ALGGGVDVDATD......V.........................RG...LTPLH.FASG..A...G...............KPLAV...VALL....RGGARVDA........................KS............RD.......HR...AP..L.HYAA..AVG...C..V.KSAE...A.LL....R...AGAG...A..DADGGA
+B6Q2N4_TALMQ/419-512               LNLA...CQ..Y.G...TV..A...IA.EIL.L...............QK......GA......T......L..LPD......A......EG...LYPQH.LVAR..S...G..RA...P.......E...M..LALLK....K......Y....GAD...LD............QT....D..K....LY.......QW...TP..L.FHAASE..G...C..V.SCLR...T.LL....E...L..G...V..DTSVLD
+C4JT62_UNCRE/393-486               LNLA...CQ..H.A...SL..P...II.QML.L...............ER......KA......K......L..LPD......A......EG...LYPQH.LVAR..T...C..RS...P.......E...V..ILLLK....S......H....GAD...LD............QK....D..K....LY.......QW...TP..L.FHAASE..G...C..V.DCLR...T.LL....D...S..G...V..DADALD
+A2FPE9_TRIVA/298-392               FTAA...AA..E.C...SL..D...LL.KAL.V.............S.CN......VD......T......K..HLD......K......SR...LGPLH.WSIQ..K...N..RF...D.......I...A..EYLVV....N......K....L.....VD............VN....VK.D....TS.......DL...TP..L.HYACAK..N...C..L.PLIK...A.LV..N.S...D..G...I..KINQSN
+A2FQF5_TRIVA/361-451               LSAA...AS..N.R...RL..D...AL.FWL.L...............EN......TN......C......S..QID......L...........NNALI.ESAR..A...N..FL...A.......G...V...RLLV....N......K....GAD...IN............CR....GY.D....DE............TP..L.HAACEN..G...S..I.EAAK...Q.IL..I.T...P..G...V..DVEVKN
+A0EDS2_PARTE/86-178                FLIA...CY..F.G...QL..S...II.KHL.M.............K.LG......VN......I......N..SKD......Q......NN...FTPLL.FAIK..S......NQ...T.......Y...I..AIYLI....Y......K....G.....AE............VL....VK.D....LN.......GC....S..LAHWSAYN..N...N..L.FMLK...I.LK....N...L..F...K..FNVFEM
+A2DXW9_TRIVA/9-101                 LIMA...AR..N.R...YL..E...TL.ELL.L............NV.PG......IE......K......S..SVD......KKTL...NA...STTVF.LH...........HK...Q.......C...V...ECLL...ND......K....D.....VN............PQ....LP.G....DS.......GF...KH..L.HIAL.S..N...D..F.SDLI...I.LL....A...E..R...D..DVGLNC
+Q0UWG6_PHANO/325-418               LQIA...AQ..H.R...DT..Q...SI.VLL.L.............R.YG......AD......A......N..GFD......R......EG...ITPLF.AATR..S...Q..CF...E.......S...A...KALI....K......H....G.....AD............PN....LSAG....PD.......SE...SP..L.AMAASN..N...Y..L.ELVQ...L.FL....A...N..K...G..DPNFIM
+A7TPS1_VANPO/79-172                VHLA...LM..N.G...YE..Q...TT.HLL.L................Q......HF......P......Q..FID......KKGS...FG...RTPAH.IACM..H...D..YH...Q.......C...L...SLLV....G......V....G.....AK............LF....LP.D....CN.......GD...TP..L.HICLEF..G...S..V.NCMR...L.LV....L...E..T...E..NIDDQI
+B8BRM4_THAPS/97-195                LHVA...CQ..F.A..ANK..E...VI.EYL.VG...............E......YK......A......G..TME......A.DV...LG...RLPLH.YLCS..N...G..APL..D.......V...V...RILI....T......T....N.....NS............ST...LCG.D....YN.......GW...LP..L.HVAIHF..G...A..GSQVVE...E.LVN...A...C..P...A..SVVTMK
+A2FC39_TRIVA/49-140                LQLA...AYYGKNK...........SV.KFL.L...............EEKANVNEKS......R......S.......................YPPLH.LSCL..I...N.......D...........VESMRMLI....DAGSNIDS......................SMFQ............CE............TP..L.QISVL.TRS...F....DCVW...E.LL....K...L..G...A..DVNRTN
+B6AIW4_CRYMR/120-215               LHWA...AK..L.E...LP..H...VI.YRL.V................K......SG......A......S..INY......VSRY...SG...LTPLH.VSII..D...G..CE...E.......S...A...SELI....S......L....SAD...PM............IR....DD.D....YE.......GY...TA..L.HLAVIN..N...L..P.NIAI...N.IL....E...S..K...S..SIDTNN
+BAD1_ARATH/5-101                   LLLV...TQ..S.G...SV..D...DL.YSL.I................Q......AA......P......D..ILQ......KVDV...LPII.HTPLH.EASS..A...G..KL...D.......L...A...MELM....I......L....KPS...FA............KK....L..N....EY.......GL...SP..L.HLAVEN..D...Q..V.ELAL...E.LV....K...V..D...P..SLVRIR
+Q9LF32_ARATH/6-102                 LEAA...AK..S.G...NI..D...LL.YEL.I................H......ED......P......Y..VLD......KTDH...VPFV.NTPLH.VAAV..N...G..KT...E.......F...A...MEMM....N......L....KPS...FA............RK....L..N....AD.......GL...TP..L.HLAVEH..G...H..F.WLVL...E.VV....K...V..D...P..SLVRIK
+B0XA85_CULQU/686-769               VGIA...TQYNQLE...........MI.KIL.L..............EHG......VD......Q......Y........................DLLN.EAILRNR...Q.......D.......L...V...QYLV....A.N....V.....................ERIFE............RD.......GL...TL..L.HKA..AKVG...N..I.KIAL...E.II........R.KG...G..HINRLD
+A2DWU3_TRIVA/217-316               VMLA...AE..Q.N...NL..E...GL.KLL.L.............E.SG......FK......A......D..VCT......VNSS...NEY..NNALT.VATF..L...YTPNP...Q.......V...V...SLLL....D......H....I.....YD............LR....SL.E....QN.......GH...DT..AAHCAIQS..R...N..L.EIAT...M.IL....E...R..T...H..DVKTLN
+Q9LU58_ARATH/51-145                LHAA...AA..A.G...QV..E...TV.RAT.L................G......VE......K......K..LCR......LKDR...DG...KTPLH.VATM..R...GKIDV...............I...REIV....A......S....C.V...DC............LE....DE.T....VQ.......GQ...TA..L.HLAVLH..L...E..I.EAVI...A.IV....E...L..I...T..ETNRFD
+A8BL00_GIAIC/448-534               LMGA...AE..S.G..FSY......VV.EQF.I........................S.............Q...........QKRKQDVQG...RTALM.YAVL..G...G..SL...K.......C...V...RLLV....R......E....................EARMVD............SQ.......GK...TA..L.AYAI.ANKD...I....ELIR...V.L.........R..D...A..EWNVVI
+A8B8V5_GIAIC/131-222               LMCA...ARAGDVY...........SV.EKL.M........................D.............K...........HVRQKDTWG...RTALI.HAAL..C...N..SPIGNN.......C...M...RVLR...........H...................KEAGVQD............VY.......GR...TA..L.IYAAMN..C...N..L.EGIK...L.LL........ETPS......EVGATD
+A8B3N5_GIAIC/888-976               LMKA...AK..N.N...DV..K...LV.KDL.L...........KEY.AK......Q..................QT......A......NG...DTALM.YAAR..N...G..NV...K.......I...T..KELLL....M......E....NK........................MT.M....KN.......GE...TA..L.ISAVRY..G...Q..G.KALK...L.LL....P...H..E...A..KMQSKD
+B0WQK8_CULQU/1885-1984             LYNA...VMVRSVP...........IV.KTL.L...........SQNPSTVVNIQRSD......T......W.......................ETALF..AAA......GLNNT...E.......L...V...QLFL....D.S....E...................ADCTLRD............IE.......GF...TV..V.AKAIVNGCR........DSLK...V.LM....E...HGKR...SGIDVVNNV
+Q0CKQ4_ASPTN/407-506               LKAA...IE..G.G...NL..N...IL.KRI.V.............E.EV......PE......C......F..EEC......RKVF...PA...ETALC.KAAA..D...G..TE...E.......T...V...RYLL....T......V....DEQ...SI............CR....G..D....LY.......GQ...TP..L.HRAILS..G...A..L.ENVQ...A.LLEHP.E...M..D...Q..ECFAMA
+A8B570_GIAIC/40-126                LMKA...VRRRDTA...........IV.KIL.........................AS.............H...........EHSWANPEG...YTALM.LAAL..N...........D.......AEDLC...KILL....SYESAYTL........................AD.....................GT...TA..L.MLAAVN..G...S..L.NALE...L.LL........P......Y..LADCRD
+A8BEL1_GIAIC/41-126                LMVA...VR..A.G...NL......AA.AHI.L.......................AE......V..................ESKMTTPTG...HTALM.LAAGSNN...T.......D.......L...C...RLLA....PLESGITT......................................DT.......GV...NA..L.MVAA.DTGS...N....DALR...V.LV....D.............HIGDDT
+A8BHY4_GIAIC/40-127                LMVA...VR..S.G..NLD......CV.KLL.A...............SIESGHLSPE.............G.......................YSALS.LAAA..A...N.......S.......A.LVC...EALV....C.F....E........................AE........HKLP.H.......GS...NA..L.IVAAKH..G...A..L.ASVR...V.LT........KH.I......DASLAD
+A8B6E3_GIAIC/44-130                LHLA...VR..A.N...DL..Q...MV.HIL.T................P......HE......A......G..CLN......N......EG...STALL.IAAS..L...N..YS...G.......I...C...KALI....P......Y....EKA...IC.....................T....PD.......GR...NA..L.MVAAEC..G...S..V.DALR...A.LL...........S...A..YQIARD
+A8BVA6_GIAIC/370-458               LMHA...VM..N.K..KMS......LV.KAY.M...............FSQASRQNSS.............G.......................ATALM.ISIS..T...G.......F.......L.EAA...RFLA....D.L....E........................AG........KQDV.H.......GQ...TA..L.MLAASV..D...S..T.DLVK...M.LM........GEEA......KKTTTN
+A8BV80_GIAIC/521-609               LMRS...VM..E.R...NI..L...AV.WYW.K................M......HQ......A......G..MQD......T......EG...RTALI.IAAE..V...D..FF...N.......A...V...RILA....P......H....EAG...VR.....................M....TN.......GK...AA..I.DIALDH..N...H..L.KIAT...F.LI....P...Y..E...G..FKEQEA
+A8BE85_GIAIC/955-1045              LMVA...VS..E.K...DL..D...CV.LAN.M.......................QY......A......G..IVN......D......FG...ETALM.IAVD..L...S..FM...D.......A...V...RVLV....D......K....EAG...IV.....................S....GA.......GL...TA..L.QLALQT..N...N..L.KIAD...L.LREKE.G...V..S...S..DNLIMA
+A8B6E3_GIAIC/686-771               LMQS...VL..R.K...SI..T...DC.KSN.L.......................QD......A......G..KAD......G......DR...CTALM.LAAT..N...G..FS...A.......A...V...QLLV....P...........F.E.................QR....MQ.D....KY.......GQ...TA..L.MKAAIA..N...S..P.EVAL...I.LR..E.H..........E..AGIK.D
+A8BB46_GIAIC/522-608               LMRA...AQ..E.N...NL..A...TA.RRF.L................H......TE......A......K..ARL......L......DG...TTALM.IAAK..F...N..SR...E.......L...V...HLLS....S......V....EVR...MQ.....................D....NE.......GR...TA..L.HHAAEH..D...S..L.DAFQ...I.LY....Y..........Q..EKDLKM
+A8BB83_GIAIC/475-562               LMYA...VL..L.EPDECL..P...FV.KLL.I.......................GL......T......G..IQD......E......NG...ETALM.KAAS..N...N..NY...I.......A...V...RQLA....P......Y....E...................KR....MV.D....KS.......GD...TA..L.ILASRS..D...A..Y.KCVT...Y.LL...............E..EIDIVD
+A8BNM6_GIAIC/522-610               LIYS...VK..H.K...NL..P...MV.DQL.A................P......SQ......H......G..ERD......A......DG...KTALH.LAAE..R...N..NK...P.......M...I...DILA....Q......Y....EAS...MF.....................D....ND.......GW...TA..LMRLAA.Q..N...A..V.DSVW...P.LL....D...K..E...A..RLQRAA
+A8BFR9_GIAIC/477-562               LMYT...VR..Y.S...MP..Q...VL.QLL.L................P......HE......L......H..GRD......S......NG...MTALI.HAAK..A...G..DP...N.......A...V...SLLQ....D......E....AGD...A......................D....NE.......GR...TA..L.MYALAY..D...H..Q.GCYQ...F.LF....P..........A..EGNVVD
+A8BZJ7_GIAIC/480-564               LMIA...AS..A.N...KV..E...AV.KLL.L...........L............E......I......G..VQN......Q......NG...MTALM.FAAM..N...D..SV...E.......A...A...KYLV....A......E....AG........................FR.T....AE.......GK...TA..L.MLAVYN..N...A..T.ECVE...L.LR....G..........R..ENHIAD
+A8BDZ5_GIAIC/386-474               LIDA...VK..D.N...DI..D...GV.KRH.I................D......SH......K......R..KQR......L......DG...MTALM.IAAV..T...N..NV...E.......A...G...RILL....D......D....E...................KR....MR.S....LS.......GF...TA..L.LYAIEN..R...N..L.EFAR...L.MA....S...H..E...K..DIKVDR
+A8B9D3_GIAIC/289-375               LMYA...AI..K.N...QP..A...CA.KLL.A................P......WE......K......G..FRN......T......GG...LTALI.MASQ..F...D..HN...D.......V...I...ALLA....E......H....EAS...MS.....................C....SN.......GR...TA..L.MTAAMH..G...N..V.EGTR...I.LA...........P...F..EARARD
+A8BFQ5_GIAIC/599-687               LMFA...AQ..A.G..QAD......CV.PAL.A...............SLQARKQNSR.............G.......................LTAMM.LAAY..K...G.......Y.......A.SIV...EILM....P.K....E........................TR........IQDD.E.......GR...TA..L.VYALFG..Q...H..K.DVVK...L.LI........DSER......DIPTKT
+A8BQR2_GIAIC/74-161                LIIA...AM..H.E...YP..E...AC.SIL.A................P......YE......K......M..VTL......P......DK...RTALM.QAAA..T...G..SV...S.......C...V...RALT....D......H....F...................FQ....EI.D....AQ.......GW...TA..L.DYAVTR..G...H..Y.DCVR...I.LC........E..T...Q..KPTLEN
+A8BKT4_GIAIC/70-157                LMLA...TL..A.S...SP..G...SA.QLL.................AQ......KE......K......G..ILL......P......DG...RNAMM.MAAG..Y...G..AH...A.......V...V...LALL....P......F....F...................SY....ET.D....RE.......GN...TA..L.DHAAIG..G...H..L.EVVK...I.LV..Q.H..........L..DFSVKD
+A8BFQ5_GIAIC/187-273               LMLA...AL..V.D...NL..R...AA.RLF.F................G......KE......W......G..LKD......T......CG...RSALM.FAGI..G...G..HT...S.......I...A...TLLW....P......R....E...................KN....MR.D....RE.......GR...TA..I.MYATVY..G...N..L.DVVK...L.LV...........A...A..EGQSED
+A8BLA8_GIAIC/74-170                LHYA...AL..T.G..STE......AV.RLL.M...............QSAGRKAAKI.FIINGPKY...HN.......................PSALM.LAAA..G...G.......H.......T.EVV...QLLM....N.A....E........................AR........MTEDWG.......GK...TA..L.MIAAWN..G...H..C.DAVL...L.LA........D..A......EARMQD
+A8BW47_GIAIC/1424-1512             LMFA...AR..A.G..NTE......IA.SLL.L...............NSEAGRQSGV.............G.......................HSALM.LAAQ..A...G.......A.......I.EVC...SLLL....K.K....E........................QC........LRTQ.D.......GT...TA..L.MMAARA..G...H..H.TIVE...L.LA........PHEA......GARRND
+A8BJR8_GIAIC/38-124                LILA...AKAGNTQ...........IA.EIL.........................AP......L..................EARSVNAQG...LTALM.CAAK..N...G..SK...D.......I...V...SILA....SREGKLLN......................................KR.......GK...TA..M.MYAAEA..G...H..Y.DVVL...D.LV....E..........L..EKCMQN
+A8BB62_GIAIC/749-835               LMIA...AK..V.G..DNE......LV.DIL.K...............LCGLNLRTPA.............G.......................ETALM.AAAA..A...G.......H.......V.AVC...RTLA....P.Q....Y........................AG........AANI.I.......GM...TA..L.MYAAEA..G...H..E.EICE...A.LL..........PY......EKGKRD
+A8BW27_GIAIC/343-431               MMLG...CV..Y.N...QS..E...AV.LLL.R................D......SE......R......R..IVL......P......NG...KTAMM.IAAT..Q...N..HV...E.......C...V...KILA....T......G....EYE...LG............VQ.......D....AS.......GQ...TA..L.MYSILN..H...S..K.EASQ...Y.LA...........G...L..EYGYRD
+A8B820_GIAIC/506-593               LMYG...AS..Y.G...LR..E...VV.TAL.L................H......PE......K......R..LSR......P..R...DG...GTAMM.AAAA..N...G..HF...D.......C...V...KVLL....D......H....EHG...MQ.............S....LD...............GT...TA..L.ILAVKF..N...R..R.HVAQ...L.LY....S..........T..EYDIKD
+A8B9D3_GIAIC/466-552               LMHA...AL..T.G...AT..D...VV.TFL.S................D......SE......A......G..MKD......A......NG...YTAMI.YAAQ..R...N..LH...E.......F...V...KRLA....P......Y....EAG...MQ.....................D....RY.......SM...TA..L.MWGFKL..G...F..S.QVVS...H.LL...........D...Y..ESGYQD
+A8B932_GIAIC/664-750               LMMA...ID..R.N...FP..E...TA.LLL.I................E......QE......A......G..LQD......K......VG...KTALM.RAIE..H...G..NY...N.......V...A...QLLV....T......Q....EAG...MI.....................D....SM.......RA...TA..L.HISVEK..G...D..L.AMVE...L.LL...........D...R..EKTMRN
+A8BXR5_GIAIC/138-224               LMDA...AS..R.N...LS..D...IV.FLL.L................D......HE......A......K..RSN......E......FG...VTALM.LAAM..S...G..AT...H.......C...I...ELLL....P......Q....E...................VR....MK.D....SL.......GC...SA..L.VYAIKA..E...H..I.PSIL...L.LL...........P...E..EHAVRD
+A8B6D9_GIAIC/87-178                LMHL...SS..L.G...CP..P...HL.LKL.L...............IH......VE......A......G..LTD......N......MG...WTALM.FAAL..W...G..HV...E.......T...I...SCLA....D......L....EAG...MQ.....................D....QD.......GM...TA..L.MHATSK..R...R..H.AAVE...Y.LL.TH.C...K..E...K..EVGRQN
+A8BFE8_GIAIC/1096-1185             LGFA...AY..R.G..ATR......IV.QSL.L...............GINDFYSISR............NH.......................RTPLM.LAAI..T...G.......H.......L.ATI...KLLL....P.N....F........................VG........FRDQ.D.......GY...TA..L.AIATYH..G...H..S.DVVE...F.LF........PYEA......HICTKT
+A2DZM9_TRIVA/217-308               LVIA...AR..S.G...SL..S...CV.KSL.V........................E......A......G..VLF......NLSR...RK...YNCFV.EAAT..Q...G..HL...D.......I...V...KYLL................DKG...VR............ID....IV.T....SD.......GY...DA..L.SCAVLM..R...R..D.SVVQ...Y.LL....M...K..G...S..SKMSKK
+A8BW40_GIAIC/1006-1093             LMIY...AA..V.G...DI..E...QV.KNY.L.......................DE......A......G..RRA......G......FD...YTALI.YAAR..N...G..HT...D.......C...V...KLLA....E......T....EAG...CA.....................T....TT.......GR...TA..L.FWALLN..G...Y..D.ACAE...I.LY....P...K..E...H..KICDNK
+A8B378_GIAIC/480-569               LMIA...AT..S.G...DV..A...GV.SSY.L...............EG......SA......G......L..VLN......G......PG...TTALM.MAAS..V...G..ST...G.......C...V...EQLA....A......Y....E...................AR....IQ.D....AK.......GM...TA..M.MHAVLR..G...Q..T.DVVC...F.LS..Q.Y......E...A..NYLDNN
+A8BUI4_GIAIC/228-316               LMMA...AN..N.G..NAD......LV.DLL.K...............AEEGGLQAEN.............G.......................ATALM.SAVI..H...R.......R.......V.PVI...RLLI....D.Q....E........................AR........LQNK.N.......GQ...TA..T.MLAARE..D...Y..F.DGVK...E.LA........RYEA......SIRDNR
+A8BYS6_GIAIC/42-130                LMWA...AK..F.G..DVK......MV.ELL.A...............EHEHSLINDN.............M.......................ETALM.IACR..F...R.......N.......Y.HAA...NILV....K.Y....E........................AG........RQDK.L.......GW...TA..L.MWLSVM..G...G..A.DTAN...L.LV........AREA......CKQDKD
+A8B9I8_GIAIC/688-775               LMQA...AA..A.G.....DLS...VI.QQM.A...............HE......IR......R......INS.......N.........G...MTALMLATLN..K...QR......D.......A...I...INLI....S......Q.........................E............SGMQN.N.DGE...TA..L.MIAVRT..G...Y..H.EGVN...L.LA....M...K..E...A..RCTKPD
+A8BA67_GIAIC/506-601               LMYA...AE..L.G.....YAD...AI.PLL.A.............P.KE......AG......M......LRS.......C.GRYL...LP...GTALMHAVVC..G...HE......K.......C...A...QLLV....N......Y..........K.............GE............VGSKT.K.YGW...TA..L.MFATVQ..N...Y..L.NLVQ...L.LA....P...L..E...T..RMVTSS
+A8BW28_GIAIC/842-930               LMIA...AE..F.G.....NVD...IV.NFL.K.............T.YE......SK......K......FSA.......S.........R...ETAMMRAAKL..G...HV......D.......I...V...KELL....G......F.........................E............SKLQN.K.DGY...TA..L.MIAIQC..N...N..S.KIAA...L.LA....N...S..E...A..GVATSA
+A2E2Y9_TRIVA/411-508               LHIA...CE..L.K...NV..E...AA.KLI.Y............ER.AG......AE......I.........FTV......PTSI...SK...DLPIH.ISCE..A...G..DI...K.......M...V...RLLA....K......V....APE....T............FN....TP.N....FN.......GL...TP..L.MIASKS..D...F..I.DIVR...A.FL..A.M...D..N...I..DVLLQD
+B8PDU6_POSPM/43-145                LAGA...CL..G.G........HLDVV.RLL.L........NNPYRN.AG..............P......N..APS.........I...ND...LTPLY.YATR..ESPAT..DRA..A.......I...V...RTLLKAG.A......A..........VD............AT.......S.A..YD.......GH.NT.P..L.MNAISQ..T........RDRDVVHE.LV...DY...G......A..SLTIKN
+B2A6G4_NATTJ/182-277               LITA...VE..R.D...MY..S...TV.INL.L.............N.LG......AN......P......E..LGG......KKIY...DE...LTPLY.LAID..R...Q..NT...N.......V...I...AALL....D......Q....GKS..................S....LF.E....SR.......GT...NP..L.KYAISR..G...K..K.NSVR...S.LI..N.Y...I..E...I..NESNRT
+Q54YL8_DICDI/377-470               LHFS...TLMGKVK...........SV.NVL.L..............EKG......AN......P......E..............VVDIFG...ALPLH.YAVT.........CITGRK.......I...A...KQLI....AKGCKVNS........................PD............NV.......GQ...TP..M.FYASKS..G...H..P.KNVT...S.LL........RLGG......SATVKD
+A2G5S0_TRIVA/329-424               FFLA...CKVGYFD...........VV.KVL.V..............RFG......CN......P......N..............LGDIDG...NTSLH.VAMK......G.......D.......FIPII...KYLI....E......E.................LKCDVKALN............KK.......DE...TP..V.MFAC.F..GNKER.....GIK...Y.LI....E...S..G...IDFGKDLKD
+D1B2D5_SULD5/570-656               LYQA...AQDDKAN..............DVIAL.............CKAG......AN......PNFAGHER.......................HTPVQ.ISAR..L...G..KL...N.......A...L...KALL....E......N.......................GGR............AD.......GE...S...M.MFAA.LREQ...I....EAMK.....LL....E...HYGG......NIAQTD
+A2DKS8_TRIVA/54-141                LMQC...SK..Q.D...QG..D...FV.KVL.L.............E.EG......AN......P......N..SGS......F......R.....TPLQ.WALM..M...N..KE...N.......S...A...QALI....L......G....G.....AD............VD....FGNP....P..............P..I.TIAASL..G...R..L.NSVK...L.IL....E...K..G...V..DVNKMD
+B3RJD3_TRIAD/665-763               LHLA...CKRNEVN...........KI.KKL.I..............VSG......TD......VNALDNCD.......................WTPLH.EACN..R...G..NT...E.......A...A...KAMI....KLSQKLNK..................NHNMVASG............DG.......GV...TP..M.HDAI.LNDH...Y....EAAV...V.LL....E...Y..G...G..PLFLTH
+C5DIN4_LACTC/500-595               LHLA...TK..L.N...SP..E...LI.EVL.L.....SIK........G......FD......V......D..YTE......P.E....TH...ETALY.TAAK..L...N..LR...E.......S...A...AHLL....K......S....G.....AN............TE...IRE.C....NF.......GW...TP..I.FAAATE..G...Y..Y.DIAK...M.LA....D...H..G...A..QYNIFD
+A2F4T3_TRIVA/137-228               IYLC...AM..G.H.....ATK...IL.VEL.F.............K.NG......AT......F......ENT.......Q....N...TE...ANPINYAIKI..K...DI......E.......I...L...TILL....N......Y.........................A............PQTKS.DQGQL...TP..I.MQAIVN..S...Q..Q.SAVP...L.LF....D...H..G...Y..DPTSIT
+A2FGD6_TRIVA/1215-1308             KMEK...ASKPYKN...........IF.FVLSS..........KSDKIEK......YN......R......N.......................TDILF.IATK..I...G.......N.......F.DVI...KSLL....E.N....G...................ADINELE.....................GF...FY..L.HSPALEAVSHDRI....DLLK.....LF........YEKG...L..DLNSIY
+A2E0A8_TRIVA/46-151                FHFH...AA..K.Y..NAF..E...CF.IYF.IE...............I......CK......F......D..FDK......A.DE...FN...IKPIH.VAAR..Y...G..ST...E.......I...V...SYLL....S......KYQSTG..KLKAL............FEEEYKTS.A....DS.......EK...KI..L.YAASFS..G...I..S.DTFK...L.FS....L...Y..G...F..EYNRFQ
+Q2GGE3_EHRCR/436-539               LHVM...VQ..N.P...GC..S...IG.NIQ.VAN..............E......CG......M......D..FNL......IDHP...TG...RMPIH.YAAE..A...A..SS...E.......V...L...SYVI....R......NTKAES.....PQ............ASAVNTQD.V....N........GR...TP..L.HCAAIS..G...N..S.KGLS...V.MLL...Q...N..G...V..DCAVRD
+A2DE55_TRIVA/291-382               LTRC...IE..F.E...NT..K...LA.EQI.IEM..............G......CD......I......N..KKT......P.K.........GTPLF.IAIQ..K...N..SK...E.......L...V...NFLL....T......N....N.....AD............VN...FSC.F....D.........T...TP..L.IYAIKN..K...S..Q.TVVP...L.LLK...C...E..D...L..KIDLQD
+C3L4D2_AMOA5/188-282               LGSV...AE..Q.G...KA..N...IV.EYI.LK...............M......PN......V......D..IYT......K.DD...KG...NTPLH.NAIK..A...K..SE...K.......V...V...RSLL....K......K...GT.....NN............IN...IKN.K....E........GK...TP..L.VLAIEN..G...S..Q.PIVR...T.LI....N...F..G...A..QLTKPE
+A2FW15_TRIVA/496-589               LFDA...ID..T.E...KP..E...VV.ECL.L.............K.NG......YD......A......N..VKH......PTL.........ILPLF.HAIK..E...G..SP...D.......E...I..IEVLL....K......Y....K.....AN............PN....VF.K....PA.......NV...SI..V.NLAIRC..E...S..E.NFLK...I.LL....K...Y..G...A..DYTVRE
+A0CR24_PARTE/425-518               FFEA...VE..N.N.....SHG...LI.TFM.L.............QKCR......YY......A......FDI.......N....E...EG...QTPLHISSIL..G...YY......E.......T...T...ERLL....Q......C..........G.............SY............PDSYD..FKGL...PP..L.YYAIQQ..Q...H..R.EIVK...L.LL....F...Y..N...A..NPWSNS
+#=GC seq_cons                      LhhA...sp..p.s.......t...hl.phL.l................t......ss......h......s...................t...hosLh.hAsp..p...s..t....c.......h...l...chLl....p......p........................hp............pp.......Gt...Ts..L.hhAs.t..s...p..h.chlc...h.Ll....t...t..s...h..chshps
+//
