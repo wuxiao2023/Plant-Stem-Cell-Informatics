@@ -3,13 +3,13 @@
 - Gene_number.txt: The file contains correspondence between numbers and genes.
 - data: Data files on which jar package execution depends. The data file and jar package must be in the same directory.
 - tools: Blast and hmmsearch tools for jar package execution dependencies.
-    ⅰ. hmmer: The compilation package of hmmer downloaded on Mac.
-    ⅱ. hmmer-linux: The compilation package of hmmer downloaded on Linux.
-    ⅲ. hmmer-windows: The compilation package of hmmer downloaded on Windows.
-    ⅳ. ncbi-blast-linux: The compilation package of blast downloaded on Linux(x86).
-    ⅴ. ncbi-blast-linux-arm: The compilation package of blast downloaded on Linux(arm).
-    ⅵ. ncbi-blast-macosx: The compilation package of blast downloaded on Mac.
-    ⅶ. ncbi-blast-win: The compilation package of blast downloaded on Windows.
+    1. hmmer: The compilation package of hmmer downloaded on Mac.
+    2. hmmer-linux: The compilation package of hmmer downloaded on Linux.
+    3. hmmer-windows: The compilation package of hmmer downloaded on Windows.
+    4. ncbi-blast-linux: The compilation package of blast downloaded on Linux(x86).
+    5. ncbi-blast-linux-arm: The compilation package of blast downloaded on Linux(arm).
+    6. ncbi-blast-macosx: The compilation package of blast downloaded on Mac.
+    7. ncbi-blast-win: The compilation package of blast downloaded on Windows.
 - psci.jar: Main program, jar execution file
 
 
