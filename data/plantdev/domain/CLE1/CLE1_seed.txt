@@ -1,45 +1,11 @@
->AT1G73165.1
-------------------------------------------------------------
-----MANLKFL--------LCLFLICVSLS---RSSASR---PMFPNADGIK----RG-R
-----MMIE-AEEVLKASMEKLMER------------------------------------
------GFNESMRLSPGGP--DPRHH------
->Potri.001G376100.1
-------------------------------------------------------------
-----MANMRVF--------LFFILSLLFFS---TFET-R---SIDR-------ISHRGDR
-----SLIETAQEMLKESIARHELI-----------------------------E------
------GFNESFRLSPGGP--DPRHH------
->PGSC0003DMT400039832
-------------------------------------------------------------
-----MASASRF--------LLWFIIIILLSYCLSLES-R---PLETLLPRKRS-------
-----TLMETAQEILRERLQRKDAF------------------------------------
-------KYHVNRLSPDGP--DPRHH------
->Solyc07g053370.1.1
-------------------------------------------------------------
-----MANSSSK------MFIILFMIIFLFCHFISLEG-R---ILDDLQVVQN----KYDS
-----HFVLSKAGFSPREIEEYTRR-----------------------------S------
------LKGGSDRVVPGGP--DSQHHSSPPTN
->Glyma.12G208900.1.p
-------------------------------------------------------------
-----MANAKQV--------LCLILLVLLFS---KLES-R---SLEAFIEGKKTLAKGCSR
-----ELIE-KSQLLKASFAKATTRF----------------------------T------
------NPRVSKRLSPGGP--DQKHH------
->CsaV3_1G032100.1
--------------MSG--------------------------------------------
----AMGLSKSS--------ILLFWLSVLVVCVTSVAGARKTLFLDHNGVRDN----KN--
---------SLTTTLAETTINRCKYSKNNDVNDLHCCECFFLSSKKMMMIDNNNG------
------TNFEEKRVVPTGP--NPLHN------
->Gh_A05G1321
-------------------------------------------------------------
-----MASWR-F--------LALCLMLILYSVS-RSEC-R---LLNANINGEN----QTTS
-YRMLSLSTSSGKVYRFSTGIRDDL-S-------------------------ENE------
------DLYQSKRLSPGGP--DPKHH------
->Medtr4g084520.1
-MGQCFDVVYAVGDLAGEVILEEIEAPEVLSNFNLN-DDCSISVNSSQSRLRER----ERT
-RERRVSLARAG--------ILLLWVMLVFALIVTL-------FFSINNETKN----NNNN
-----N--HSNIRLLRQRTFNKALLSH--------------APSKQRTRTTHHHDQARTTT
-NVGDPLYGDDKRLIHTGP--NPLHN------
->Lj3g3v2848710.1
----------------------------MYNTLHMDIDECVVTLTGIQTHGKPLNDVWDPA
-LEDLVYSYRRDLEKCCHLLQNLPSVTVIFESI------------------------LGNH
-----LLLKSSSSPWMPQVNDFPSW-----------------------------KLIA---
------STELDMLLALSSPFYIPRAHQA----
+# STOCKHOLM 1.0
+AT1G73165.1	----------------------------------------------------------------MANLKFL--------LCLFLICVSLS---RSSASR---PMFPNADGIK----RG-R----MMIE-AEEVLKASMEKLMER-----------------------------------------GFNESMRLSPGGP--DPRHH------
+Potri.001G376100.1	----------------------------------------------------------------MANMRVF--------LFFILSLLFFS---TFET-R---SIDR-------ISHRGDR----SLIETAQEMLKESIARHELI-----------------------------E-----------GFNESFRLSPGGP--DPRHH------
+PGSC0003DMT400039832	----------------------------------------------------------------MASASRF--------LLWFIIIILLSYCLSLES-R---PLETLLPRKRS-----------TLMETAQEILRERLQRKDAF------------------------------------------KYHVNRLSPDGP--DPRHH------
+Solyc07g053370.1.1	----------------------------------------------------------------MANSSSK------MFIILFMIIFLFCHFISLEG-R---ILDDLQVVQN----KYDS----HFVLSKAGFSPREIEEYTRR-----------------------------S-----------LKGGSDRVVPGGP--DSQHHSSPPTN
+Glyma.12G208900.1.p	----------------------------------------------------------------MANAKQV--------LCLILLVLLFS---KLES-R---SLEAFIEGKKTLAKGCSR----ELIE-KSQLLKASFAKATTRF----------------------------T-----------NPRVSKRLSPGGP--DQKHH------
+CsaV3_1G032100.1	-------------MSG-----------------------------------------------AMGLSKSS--------ILLFWLSVLVVCVTSVAGARKTLFLDHNGVRDN----KN----------SLTTTLAETTINRCKYSKNNDVNDLHCCECFFLSSKKMMMIDNNNG-----------TNFEEKRVVPTGP--NPLHN------
+Gh_A05G1321	----------------------------------------------------------------MASWR-F--------LALCLMLILYSVS-RSEC-R---LLNANINGEN----QTTSYRMLSLSTSSGKVYRFSTGIRDDL-S-------------------------ENE-----------DLYQSKRLSPGGP--DPKHH------
+Medtr4g084520.1	MGQCFDVVYAVGDLAGEVILEEIEAPEVLSNFNLN-DDCSISVNSSQSRLRER----ERTRERRVSLARAG--------ILLLWVMLVFALIVTL-------FFSINNETKN----NNNN----N--HSNIRLLRQRTFNKALLSH--------------APSKQRTRTTHHHDQARTTTNVGDPLYGDDKRLIHTGP--NPLHN------
+Lj3g3v2848710.1	---------------------------MYNTLHMDIDECVVTLTGIQTHGKPLNDVWDPALEDLVYSYRRDLEKCCHLLQNLPSVTVIFESI------------------------LGNH----LLLKSSSSPWMPQVNDFPSW-----------------------------KLIA--------STELDMLLALSSPFYIPRAHQA----
+//
