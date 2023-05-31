@@ -49,4 +49,6 @@ When the execution is complete, the directory where txt is located will be outpu
 # Note:
 According to GitHub website's policy, prohibit users from uploading files with memory greater than 100M. Therefore, we present the Plant-Stem-Cell-Informatics/src/main/resources/os_parent.db via compressed packages. Please unzip it before use, or download unzipped version from PSCIdb (http://47.100.201.80:8084/liuxn-plantdev-os-webapp/web/download) to use directly.
 
+For Linux and Mac operating systems, we have embedded the latest version of HMMER (v3.3.2). However, due to the limitations of the HMMER software on the Windows operating system, which only supports version 3.0, we have only embedded version 3.0 in this operating system. Please select the appropriate operating platform according to your needs.
+    
 The folders in the Tools tool directory can be used to delete unnecessary toolkits according to different system environments.
